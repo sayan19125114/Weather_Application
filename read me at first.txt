@@ -1,0 +1,8 @@
+step - 1
+pip install -r requirment.txt 
+
+step - 2
+open an idle
+
+step - 3
+run the project
